@@ -32,6 +32,6 @@ Currently, the system supports **.txt resumes**, with a preprocessing and rankin
 ---
 ## 🔹 Future Enhancements
 
--Support for PDF resumes (text + scanned images)
--Advanced NLP features for skills extraction and matching
--Deployment to cloud platforms (Streamlit Cloud / Heroku / AWS)
+- Support for PDF resumes (text + scanned images)
+- Advanced NLP features for skills extraction and matching
+- Deployment to cloud platforms (Streamlit Cloud / Heroku / AWS)
